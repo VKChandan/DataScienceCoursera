@@ -1,3 +1,3 @@
 # DataScienceCoursera
-Created to submit ToolBox assignment
-# This is my first assignment
+Created to submit ToolBox assignment.
+This is my first assignment
